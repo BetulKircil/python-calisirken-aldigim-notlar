@@ -1,0 +1,1 @@
+# python-calisirken-aldigim-notlar
